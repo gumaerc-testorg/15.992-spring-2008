@@ -3,8 +3,13 @@ content_type: resource
 description: 'Lecture presentation on action at the industry and societal levels:
   industry collaborations, certification efforts, and partnerships with NGOs, courtesy
   of Jason Jay.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/bf4bff1e02e48c8f9dbb21f2e23520d0_lec_20.pdf
+file: /media/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/bf4bff1e02e48c8f9dbb21f2e23520d0_lec_20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Healthy Value Chains
 uid: bf4bff1e-02e4-8c8f-9dbb-21f2e23520d0

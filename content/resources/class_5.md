@@ -2,8 +2,12 @@
 content_type: resource
 description: Table showing Herman Miller's market share in the US office furniture
   industry provided as a supplement to Lecture 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/82362c6b59466564fe9ebfaa432b0836_class_5.pdf
+file: /media/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/82362c6b59466564fe9ebfaa432b0836_class_5.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: US Office Furniture Industry
 uid: 82362c6b-5946-6564-fe9e-bfaa432b0836
