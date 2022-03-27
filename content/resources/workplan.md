@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4bfd826b-4fdb-8566-6882-4cfc272b9a77
 resourcetype: Document
 title: 'Preparing Your Workplan: Initial Steps'
 uid: 5858b8f5-08b9-604d-3b72-29b605efb4b8

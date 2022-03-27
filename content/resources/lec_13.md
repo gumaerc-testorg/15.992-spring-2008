@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 06975356-3c00-20c3-8acc-59cb09954204
 resourcetype: Document
 title: Sustainability
 uid: d1e377e0-770c-b288-0d10-38cd0c3665e0

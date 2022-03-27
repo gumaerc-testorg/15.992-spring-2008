@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 06975356-3c00-20c3-8acc-59cb09954204
 resourcetype: Document
 title: Ecological and Economic Sustainability
 uid: b2d25ff6-ab61-2b3f-ca4e-e290585daa0d

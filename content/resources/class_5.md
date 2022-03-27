@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e774baba-b172-e709-c4e9-5146969f8894
 resourcetype: Document
 title: US Office Furniture Industry
 uid: 82362c6b-5946-6564-fe9e-bfaa432b0836

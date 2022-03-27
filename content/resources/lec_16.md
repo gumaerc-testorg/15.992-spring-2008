@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 06975356-3c00-20c3-8acc-59cb09954204
 resourcetype: Document
 title: Sustainable Infrastructure and International Markets
 uid: 7e4fc829-b23a-0175-a625-1ff69d59d1b3

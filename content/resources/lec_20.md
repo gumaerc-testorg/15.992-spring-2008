@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 06975356-3c00-20c3-8acc-59cb09954204
 resourcetype: Document
 title: Healthy Value Chains
 uid: bf4bff1e-02e4-8c8f-9dbb-21f2e23520d0

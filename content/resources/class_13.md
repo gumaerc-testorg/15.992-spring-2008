@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e774baba-b172-e709-c4e9-5146969f8894
 resourcetype: Document
 title: Additional resources for lecture 13
 uid: b827dbcf-817a-abd7-da69-26fc529a96f8

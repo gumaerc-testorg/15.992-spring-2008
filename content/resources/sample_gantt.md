@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4bfd826b-4fdb-8566-6882-4cfc272b9a77
 resourcetype: Document
 title: Sample Gantt Chart
 uid: 382afaac-b00f-5a00-9081-f5aab7269342

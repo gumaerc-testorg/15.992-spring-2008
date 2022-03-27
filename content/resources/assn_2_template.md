@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1fa55580-e6bd-9ae2-bcd7-2315dcb05ca6
 resourcetype: Other
 title: '"Rate Your Home" Survey'
 uid: 7378a70d-8ede-acff-5721-e4fccd62cb60

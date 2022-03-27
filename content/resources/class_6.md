@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e774baba-b172-e709-c4e9-5146969f8894
 resourcetype: Document
 title: Supplementary Wal-Mart Material
 uid: c2134c10-8b65-b311-550f-c2d5b572b79d

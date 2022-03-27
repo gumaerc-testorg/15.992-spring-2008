@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4bfd826b-4fdb-8566-6882-4cfc272b9a77
 resourcetype: Document
 title: List of 2008 Projects
 uid: 0efbfc1c-9570-4f61-fbb6-2fd4ce6ad710
