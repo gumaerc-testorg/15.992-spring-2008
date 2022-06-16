@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course project, including background,
+  logistics, and final report content.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,11 +14,11 @@ Background Information
 
 Ancona, Deborah, Henrik Bresman, and Katrin Kaeufer. "The Comparative Advantage of X-Teams." _MIT Sloan Management Review_ 43, no. 3 (2002): 33-39.
 
-Sample Gantt Chart ([PDF]({{< baseurl >}}/resources/sample_gantt))
+Sample Gantt Chart ({{% resource_link 382afaac-b00f-5a00-9081-f5aab7269342 "PDF" %}})
 
-A Guide for preparing Your Workplan ([PDF]({{< baseurl >}}/resources/workplan))
+A Guide for preparing Your Workplan ({{% resource_link 5858b8f5-08b9-604d-3b72-29b605efb4b8 "PDF" %}})
 
-List of 2008 Projects ([PDF]({{< baseurl >}}/resources/project_list))
+List of 2008 Projects ({{% resource_link 0efbfc1c-9570-4f61-fbb6-2fd4ce6ad710 "PDF" %}})
 
 Project Logistics
 -----------------

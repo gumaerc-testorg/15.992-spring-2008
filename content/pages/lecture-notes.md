@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on lecture topics, discussions, and speakers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -51,7 +53,7 @@ SPEAKERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course overview ([PDF]({{< baseurl >}}/resources/lec_01))
+Course overview ({{% resource_link bf352eb2-d9cd-f55d-8985-b6182aaa45dd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 What does it mean for a private company to act "sustainably"?  
@@ -72,7 +74,7 @@ Locke; Lorrie Vogel, Manager, Nike "Considered" Brand
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The state of the world ([PDF]({{< baseurl >}}/resources/lec_02))
+The state of the world ({{% resource_link b2d25ff6-ab61-2b3f-ca4e-e290585daa0d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Why is sustainability an important problem for business? A look at the science, and at the possible political and economic consequences of current trends.
@@ -87,7 +89,7 @@ Sterman
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Organizational response ([PDF]({{< baseurl >}}/resources/lec_03))
+Organizational response ({{% resource_link a6e04f84-c8b9-0a1d-f4a0-5cf7e014cd7b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 An introduction to the problem of "worse before better" (WBB), overload, how firms overcome organizational barriers to move in new directions.  
@@ -152,7 +154,7 @@ Locke
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Sustainable retail. Can big box stores really go green? ([PDF]({{< baseurl >}}/resources/lec_06))
+Sustainable retail. Can big box stores really go green? ({{% resource_link 4b40f38c-92bf-0a1e-bfb6-8f439b81c955 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Walmart has made enormous investments in greening their facilities and in products.  
@@ -287,7 +289,7 @@ Sterman
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Case example of alternative transportation opportunities ([PDF]({{< baseurl >}}/resources/lec_13)) (Courtesy of Dr. Roger Saillent. Used with permission.)
+Case example of alternative transportation opportunities ({{% resource_link d1e377e0-770c-b288-0d10-38cd0c3665e0 "PDF" %}}) (Courtesy of Dr. Roger Saillent. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 What are some of the exciting new developments in transportation? What are some of the pathways for their business development?
@@ -319,7 +321,7 @@ Henderson
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Green buildings: new markets and services ([PDF]({{< baseurl >}}/resources/lec_15))
+Green buildings: new markets and services ({{% resource_link e992f265-7cf4-a31c-c6b6-0be92aaf97eb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 What are the economics of green buildings? Is it possible to build sustainable communities and make money? What kinds of business models make sense?
@@ -334,7 +336,7 @@ Slaughter
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Sustainable infrastructure and international markets ([PDF]({{< baseurl >}}/resources/lec_16))
+Sustainable infrastructure and international markets ({{% resource_link 7e4fc829-b23a-0175-a625-1ff69d59d1b3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Some people think the great wars of the next fifty years are as likely to be fought over water as they are over oil. Who owns water? Who decides where the waste goes? What are the business opportunities in the space?
@@ -400,7 +402,7 @@ Sterman
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Action at the industry and societal levels: industry collaborations, certification efforts, and partnerships with NGOs ([PDF]({{< baseurl >}}/resources/lec_20)) (Courtesy of Jason Jay. Used with permission.)
+Action at the industry and societal levels: industry collaborations, certification efforts, and partnerships with NGOs ({{% resource_link bf4bff1e-02e4-8c8f-9dbb-21f2e23520d0 "PDF" %}}) (Courtesy of Jason Jay. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 What are some of the challenges involved in the design and implementation of effective policies to promote sustainable and productive use of renewable resources? Individual companies cannot tackle these issues alone. How successful are collaborative efforts with other firms in the same industry? What are the risks and opportunities for private company-NGO partnerships?
