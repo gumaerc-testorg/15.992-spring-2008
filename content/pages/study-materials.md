@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides supplemental study materials for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: e774baba-b172-e709-c4e9-5146969f8894
 ---
@@ -22,7 +25,7 @@ TOPICS
 0
 {{< tdclose >}}
 {{< tdopen >}}
-Questionnaire for prospective S-Lab host companies ([PDF]({{< baseurl >}}/resources/questionnaire))
+Questionnaire for prospective S-Lab host companies ({{% resource_link ac1e0ab0-d643-7224-4cf2-64b3df77b7e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +34,7 @@ Questionnaire for prospective S-Lab host companies ([PDF]({{< baseurl >}}/resour
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Table on Herman Miller market share ([PDF]({{< baseurl >}}/resources/class_5))
+Table on Herman Miller market share ({{% resource_link 82362c6b-5946-6564-fe9e-bfaa432b0836 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +43,7 @@ Table on Herman Miller market share ([PDF]({{< baseurl >}}/resources/class_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Supplementary information on Wal-Mart ([PDF]({{< baseurl >}}/resources/class_6))
+Supplementary information on Wal-Mart ({{% resource_link c2134c10-8b65-b311-550f-c2d5b572b79d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +52,7 @@ Supplementary information on Wal-Mart ([PDF]({{< baseurl >}}/resources/class_6))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Additional resources for lecture 13 ([PDF]({{< baseurl >}}/resources/class_13))
+Additional resources for lecture 13 ({{% resource_link b827dbcf-817a-abd7-da69-26fc529a96f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
