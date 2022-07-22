@@ -7,6 +7,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/bf4b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Healthy Value Chains
 uid: bf4bff1e-02e4-8c8f-9dbb-21f2e23520d0
 ---
 Lecture presentation on action at the industry and societal levels: industry collaborations, certification efforts, and partnerships with NGOs, courtesy of Jason Jay.
-

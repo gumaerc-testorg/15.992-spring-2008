@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/a6e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Overload, Change, and Sustainability
 uid: a6e04f84-c8b9-0a1d-f4a0-5cf7e014cd7b
 ---
 Lecture presentation on organizational response, overload, change, and sustainability.
-

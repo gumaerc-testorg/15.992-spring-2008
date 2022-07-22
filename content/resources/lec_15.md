@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/e992
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Green Buildings \u2013 New Services and Products from Market Transformat
 uid: e992f265-7cf4-a31c-c6b6-0be92aaf97eb
 ---
 Lecture presentation on sustainability of buildings, and new markets and services.
-

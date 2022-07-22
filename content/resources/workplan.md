@@ -5,6 +5,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/5858
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Preparing Your Workplan: Initial Steps'
 uid: 5858b8f5-08b9-604d-3b72-29b605efb4b8
 ---
 Guidelines on preparing a workplan for the S-Lab project.
-

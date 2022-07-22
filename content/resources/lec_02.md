@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/b2d2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Ecological and Economic Sustainability
 uid: b2d25ff6-ab61-2b3f-ca4e-e290585daa0d
 ---
 Lecture presentation on ecological and economic sustainability, globalization, growth, and the state of the world.
-

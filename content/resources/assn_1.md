@@ -5,6 +5,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/6919
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 1
 uid: 6919c665-9715-7e01-f497-402f61d06cd5
 ---
 Assignment and readings for Class 2: The State of the World.
-

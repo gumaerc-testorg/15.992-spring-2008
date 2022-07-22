@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/4b40
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Wal-Mart
 uid: 4b40f38c-92bf-0a1e-bfb6-8f439b81c955
 ---
 Lecture presentation on Wal-Mart, sustainable retail, and whether big box stores can go green.
-

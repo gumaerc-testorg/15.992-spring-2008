@@ -5,6 +5,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/382a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Sample Gantt Chart
 uid: 382afaac-b00f-5a00-9081-f5aab7269342
 ---
 Sample Gantt chart for planning the S-Lab project.
-

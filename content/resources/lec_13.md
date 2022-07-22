@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/d1e3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sustainability
 uid: d1e377e0-770c-b288-0d10-38cd0c3665e0
 ---
 Lecture presentation on a case example of alternative transportation opportunities, courtesy of Dr. Roger Saillent.
-

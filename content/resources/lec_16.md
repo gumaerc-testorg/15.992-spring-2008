@@ -6,6 +6,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7e4f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sustainable Infrastructure and International Markets
 uid: 7e4fc829-b23a-0175-a625-1ff69d59d1b3
 ---
 Lecture presentation on sustainable infrastructure and international markets.
-

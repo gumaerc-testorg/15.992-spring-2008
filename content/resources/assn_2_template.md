@@ -5,6 +5,7 @@ file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7378
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '"Rate Your Home" Survey'
 uid: 7378a70d-8ede-acff-5721-e4fccd62cb60
 ---
 Assignment on rating the sustainability of your home.
-
