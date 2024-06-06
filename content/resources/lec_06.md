@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on Wal-Mart, sustainable retail, and whether big
   box stores can go green.
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/4b40f38c92bf0a1ebfb68f439b81c955_lec_06.pdf
+file_size: 476316
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

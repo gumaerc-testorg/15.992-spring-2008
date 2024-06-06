@@ -4,6 +4,7 @@ description: 'Lecture presentation on action at the industry and societal levels
   industry collaborations, certification efforts, and partnerships with NGOs, courtesy
   of Jason Jay.'
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/bf4bff1e02e48c8f9dbb21f2e23520d0_lec_20.pdf
+file_size: 88740
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
