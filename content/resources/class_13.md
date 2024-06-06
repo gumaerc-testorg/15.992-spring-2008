@@ -2,6 +2,7 @@
 content_type: resource
 description: Links to additional resources for lecture 13.
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/b827dbcf817aabd7da6926fc529a96f8_class_13.pdf
+file_size: 38431
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
