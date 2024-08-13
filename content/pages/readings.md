@@ -48,7 +48,7 @@ Course overview
 
 ### Case
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112826) Locke, Richard M. "The Promise and Perils of Globalization: The Case of Nike." Chapter 3 in [_Management: Inventing and Delivering Its Future_](https://mitpress.mit.edu/9780262112826). Edited by Thomas A. Kochan and Richard Schmalensee. Cambridge, MA: MIT Press, 2003, pp. 39-70. ISBN: 9780262112826.
+{{% resource_link "9033cff9-5337-4928-b622-954d22d3ae69" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Locke, Richard M. "The Promise and Perils of Globalization: The Case of Nike." Chapter 3 in {{% resource_link "9033cff9-5337-4928-b622-954d22d3ae69" "_Management: Inventing and Delivering Its Future_" %}}. Edited by Thomas A. Kochan and Richard Schmalensee. Cambridge, MA: MIT Press, 2003, pp. 39-70. ISBN: 9780262112826.
 
 ### Required
 
@@ -56,13 +56,13 @@ Course overview
 
 "Innovate for a Better World." Nike FY05-06 Corporate Responsibility Report. Beaverton, OR: Nike, Inc., 2006. (Read chapter 4, "Considered Design and the Environment" and skim chapter 3, "Workers in Contract Factories.")
 
-Jana, Reena. "[Quality over Green: Nike's New Air Jordan](http://www.businessweek.com/innovate/content/jan2008/id20080125_828346.htm)." _Business Week_, January 25, 2008. (Skim)
+Jana, Reena. "{{% resource_link "c66fc750-035a-43dd-9b73-f52c5685a67b" "Quality over Green: Nike's New Air Jordan" %}}." _Business Week_, January 25, 2008. (Skim)
 
 ### Recommended
 
 Locke, Richard, and Monica Romis. "Improving Work Conditions in a Global Supply Chain." _MIT Sloan Management Review_ 48, no. 2 (2007): 54-62.
 
-Roberts, Dexter, and Peter Engardino. "[Secrets, Lies, and Sweatshops](http://www.businessweek.com/magazine/content/06_48/b4011001.htm)." _Business Week_, November 27, 2006, pp. 50-56.
+Roberts, Dexter, and Peter Engardino. "{{% resource_link "57bfd077-86cf-4b31-af27-7aeee2466c74" "Secrets, Lies, and Sweatshops" %}}." _Business Week_, November 27, 2006, pp. 50-56.
 
 
 {{< tdclose >}}
@@ -80,7 +80,7 @@ The state of the world
 
 ### Required
 
-Gilman, Nils, Doug Randall, and Peter Schwartz. "Impacts of Climate Change" [Scientific Assessment of the Effects of Global Change on the United States](http://library.globalchange.gov/scientific-assessment-of-the-effects-of-global-change-on-the-united-states). May 2008." Global Business Network, 2007.
+Gilman, Nils, Doug Randall, and Peter Schwartz. "Impacts of Climate Change" {{% resource_link "421b0d34-a456-47fe-9a80-0bfa077ea161" "Scientific Assessment of the Effects of Global Change on the United States" %}}. May 2008." Global Business Network, 2007.
 
 Wackernagel, Mathis, et al. "Tracking the Ecological Overshoot of the Human Economy." _PNAS_ 99, no. 15 (2002): 9266-9271.
 
@@ -112,9 +112,9 @@ Organizational response
 
 Barringer, Felicity. "In Many Communities, It's Not Easy Going Green." _New York Times_, February 7, 2008.
 
-Repenning, Nelson, and John Sterman. "Nobody Ever Gets Credit for Fixing Problems That Never Happened." _California Management Review_ 43, no. 4 (2001): 64-88. ([PDF](http://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf))
+Repenning, Nelson, and John Sterman. "Nobody Ever Gets Credit for Fixing Problems That Never Happened." _California Management Review_ 43, no. 4 (2001): 64-88. ({{% resource_link "556ca8c9-b7e6-495d-a446-24e301e8111e" "PDF" %}})
 
-Repenning, Nelson, Paulo Goncalves, and Laura J. Black. "Past the Tipping Point: The Persistence of Firefighting in Product Development." _California Management Review_ 43, no. 4 (2001): 44-63. ([PDF](http://web.mit.edu/nelsonr/www/TippingV2_0-sub_doc.pdf))
+Repenning, Nelson, Paulo Goncalves, and Laura J. Black. "Past the Tipping Point: The Persistence of Firefighting in Product Development." _California Management Review_ 43, no. 4 (2001): 44-63. ({{% resource_link "4065ae83-8f91-4050-b5d1-954a03d0ff8e" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -148,7 +148,7 @@ Kanter, Rosabeth, and Ricardo Reisen De Pinho. "Banco Real: Banking on Sustainab
 
 ### Required
 
-Porter, Michael, and Mark Kramer. "[Strategy and Society](http://www.hbrsasia.org/)." _Harvard Business Review_ 12 (2006): 78-92.
+Porter, Michael, and Mark Kramer. "{{% resource_link "ee19ded5-df9d-47f5-a89f-e0b9c78774a9" "Strategy and Society" %}}." _Harvard Business Review_ 12 (2006): 78-92.
 
 
 {{< tdclose >}}
@@ -170,15 +170,15 @@ Lee, Deishin, and Lionel Bony. "Cradle-to-Cradle Design at Herman Miller: Moving
 
 ### Required
 
-Walker, Brian. "[You Are Only As Green As Your Supply Chain](http://web.archive.org/web/20101209162910/http://www.hbrgreen.org/2008/02/you_are_only_as_green_as_your.html?cm_mmc=npv-_-listserv-_-FEB_2008-_-HBRGreen2)." _Harvard Business Review_, February 6, 2008.
+Walker, Brian. "{{% resource_link "fe944c1b-fbc8-4b69-a36c-c365c6c82ae2" "You Are Only As Green As Your Supply Chain" %}}." _Harvard Business Review_, February 6, 2008.
 
 ### Recommended
 
-"[Our Journey Toward a Better World](http://www.hermanmiller.com/About-Us/A-Better-World-Report)." Zeeland, MI: Herman Miller, Inc.
+"{{% resource_link "d6a8ef43-f49e-473a-a458-9ceef6168b0a" "Our Journey Toward a Better World" %}}." Zeeland, MI: Herman Miller, Inc.
 
-"A Message from Brian Walker, CEO." Fiscal Year 2005. Zeeland, MI: Herman Miller, Inc., 2006. ([PDF](https://www.hermanmiller.com/content/dam/hermanmiller/documents/investors/HMI_2005_MESSAGE_BRIAN_WALKER.pdf))
+"A Message from Brian Walker, CEO." Fiscal Year 2005. Zeeland, MI: Herman Miller, Inc., 2006. ({{% resource_link "1b898e7e-5c05-4c9c-b71a-6a3e09bb5f98" "PDF" %}})
 
-Svoboda, Susan. "Note on Life Cycle Analysis." Ann Arbor, MI: University of Michigan, 1995. ([PDF](http://www.umich.edu/~nppcpub/resources/compendia/CORPpdfs/CORPlca.pdf))
+Svoboda, Susan. "Note on Life Cycle Analysis." Ann Arbor, MI: University of Michigan, 1995. ({{% resource_link "1347e019-86c5-45a8-af7b-20ab5416602c" "PDF" %}})
 
 Robert, K. H., et al. "Strategic Sustainable Development: Selection, Design and Synergies of Applied Tools." _Journal of Cleaner Production_ 10 (2002): 197-214.
 
@@ -314,7 +314,7 @@ Pause for reflection: everything's connected
 
 Hardin, Garrett. "The Tragedy of the Commons." _Science_ 162, no. 3859 (1968): 1243-1248.
 
-Locke, Richard M. "Building Trust." Draft Article. Cambridge, MA: MIT Sloan School of Management, 2008. ([PDF](http://rlocke.scripts.mit.edu/docs/papers/Locke_BuildingTrust.pdf))
+Locke, Richard M. "Building Trust." Draft Article. Cambridge, MA: MIT Sloan School of Management, 2008. ({{% resource_link "f8ceed0d-e80e-4379-8618-b29669b5147b" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -338,7 +338,7 @@ Alternative transportation networks: simulation
 
 ### Required
 
-Struben, Jeroen, and John Sterman. "[Transition Challenges for Alternative Fuel Vehicle and Transportation Systems](https://journals.sagepub.com/doi/pdf/10.1068/b33022t)." _Environment and Planning B: Planning and Design_ 35, no. 6 (2008): 1070-1097.
+Struben, Jeroen, and John Sterman. "{{% resource_link "74fb8c6a-7940-4277-8529-47c7650bad8a" "Transition Challenges for Alternative Fuel Vehicle and Transportation Systems" %}}." _Environment and Planning B: Planning and Design_ 35, no. 6 (2008): 1070-1097.
 
 Romm, Joseph. "The Hype about Hydrogen." _Issues in Science and Technology_ 20, no. 3 (2004): 74-81.
 
@@ -346,7 +346,7 @@ Sperling, Daniel, and Joan Ogden. "The Hope for Hydrogen." _Issues in Science an
 
 ### Recommended
 
-Lovins, Amory, and Brett Williams. "A Strategy for the Hydrogen Transition." Paper presented at the 10th Annual U.S. Hydrogen Meeting, National Hydrogen Association. Vienna, Virginia, April 7-9, 1999. ([PDF](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D6674%26file%3DT99-07%252C%2BA%2BStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition.pdf%26title%3DStrategy%2Bfor%2Bthe%2BHydrogen%2BTransition&ei=JAftUMrcIcWu0AGX4oDABQ&usg=AFQjCNGLM48oyFnwvEHKgejoQviEzuW-Vw&bvm=bv.1357316858,d.d2k&cad=rja))
+Lovins, Amory, and Brett Williams. "A Strategy for the Hydrogen Transition." Paper presented at the 10th Annual U.S. Hydrogen Meeting, National Hydrogen Association. Vienna, Virginia, April 7-9, 1999. ({{% resource_link "834bbe84-9cf4-4f4e-8a38-1b71616dadba" "PDF" %}})
 
 Fargione, Joseph, et al. "Land Clearing and the Biofuel Carbon Debt." _Science_ 319, no. 5867 (2008): 1235-1238.
 
@@ -404,11 +404,11 @@ Green buildings: new markets and services
 
 ### Required
 
-"[Investing in the Environment: The Financial Industry's Approach to Green Building](http://www.buildinggreen.com/auth/article.cfm?fileName=161101a.xml)." _Environmental Building News_ 16, no. 11 (2007).
+"{{% resource_link "171ae437-71d3-4904-bbba-5374696d65b6" "Investing in the Environment: The Financial Industry's Approach to Green Building" %}}." _Environmental Building News_ 16, no. 11 (2007).
 
-Kats, Gregory. "Green Building Costs and Financial Benefits." Massachusetts Technology Collaborative, 2003. ([PDF](http://www.greenspacebuildings.com/wp-content/uploads/2011/05/Kats-Green-Buildings-Cost.pdf))
+Kats, Gregory. "Green Building Costs and Financial Benefits." Massachusetts Technology Collaborative, 2003. ({{% resource_link "c4a4199e-2b61-444c-8e5e-4dbe0adf040a" "PDF" %}})
 
-Miller, Norman, Jay Spivey, and Andy Florance. "Does Green Pay Off?" Draft Article, 2010. ([PDF](https://www.energystar.gov/sites/default/files/buildings/tools/DoesGreenPayOff.pdf))
+Miller, Norman, Jay Spivey, and Andy Florance. "Does Green Pay Off?" Draft Article, 2010. ({{% resource_link "ea6f4d19-89ab-4199-b404-d1b7bad80e87" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -426,9 +426,9 @@ Sustainable infrastructure and international markets
 
 ### Required
 
-Kotkin, Joel. "[Opinion: Road Work](http://online.wsj.com/article/SB118826651510210572.html?mod=todays_us_opinion)." _Wall Street Journal_, August 28, 2007.
+Kotkin, Joel. "{{% resource_link "161834fa-e049-4ecc-9a00-4dfbddf2c9ff" "Opinion: Road Work" %}}." _Wall Street Journal_, August 28, 2007.
 
-Gertner, Jon. "[The Future is Drying Up](http://www.nytimes.com/2007/10/21/magazine/21water-t.html)." _New York Times Magazine_, October 21, 2007.
+Gertner, Jon. "{{% resource_link "d7368011-adf9-4635-8d03-e6a3bc30022d" "The Future is Drying Up" %}}." _New York Times Magazine_, October 21, 2007.
 
 
 {{< tdclose >}}
@@ -464,7 +464,7 @@ Growth with vision
 
 ### Required
 
-Porter, Michael, and Mark Kramer. "[Strategy and Society](http://www.hbrsasia.org/)." _Harvard Business Review_, no. 12 (2006): 78-92.
+Porter, Michael, and Mark Kramer. "{{% resource_link "ee19ded5-df9d-47f5-a89f-e0b9c78774a9" "Strategy and Society" %}}." _Harvard Business Review_, no. 12 (2006): 78-92.
 
 Elhauge, Einer. "Sacrificing Corporate Profits." _New York University Law Review_ 80, no. 3 (2005): 733-869.
 
@@ -494,13 +494,13 @@ Action at the macro level: setting a price for carbon
 
 Scharlemann, J. P. W., and W. F. Laurance. "How Green are Biofuels?" _Science_ 319, no. 5859 (2008): 43-44.
 
-Gore, Al. "[New Thinking on the Climate Crisis](http://www.ted.com/index.php/talks/al_gore_s_new_thinking_on_the_climate_crisis.html)." TED Ideas Worth Spreading, March 2008. Video lecture.
+Gore, Al. "{{% resource_link "9e5b52ea-2366-4e78-a735-953158da527d" "New Thinking on the Climate Crisis" %}}." TED Ideas Worth Spreading, March 2008. Video lecture.
 
-Ball, Jeffrey. "[Two Carbon-Market Millionaires Take a Hit as U.N. Clamps Down](http://online.wsj.com/article/SB120813542203111705.html)." _Wall Street Journal_, April 14, 2008.
+Ball, Jeffrey. "{{% resource_link "2648d257-0a66-40c2-ac46-1e29af474526" "Two Carbon-Market Millionaires Take a Hit as U.N. Clamps Down" %}}." _Wall Street Journal_, April 14, 2008.
 
-———. "[U.N. Effort to Curtail Emissions in Turmoil](http://online.wsj.com/article/SB120796372237309757.html)." _Wall Street Journal_, April 12, 2008.
+———. "{{% resource_link "89dc51b0-464e-47be-ac85-18186a9fe6ce" "U.N. Effort to Curtail Emissions in Turmoil" %}}." _Wall Street Journal_, April 12, 2008.
 
-"[Hot Politics](http://www.pbs.org/wgbh/pages/frontline/hotpolitics/)." _PBS_, April 24, 2007. Video documentary.
+"{{% resource_link "a38745c9-98d6-414b-ba19-b47a258754cd" "Hot Politics" %}}." _PBS_, April 24, 2007. Video documentary.
 
 Meadows, Donella. "The Limits to Growth Revisited." In _The Global Citizen_. Washington, DC: Island Press, 1991, pp. 29-33. ISBN: 9781559630580.
 
@@ -520,7 +520,7 @@ Action at the industry and societal levels: industry collaborations, certificati
 
 ### Required
 
-Senge, Peter. "Unconventional Allies: Coke and WWF Partner for Sustainable Water." Chapter 7 in _The Necessary Revolution_. New York, NY: Random House, Inc., 2008. ISBN: 9780385519014. ([PDF](http://www.economist.com/media/management/necessary-revolution-senge-uk-e.pdf))
+Senge, Peter. "Unconventional Allies: Coke and WWF Partner for Sustainable Water." Chapter 7 in _The Necessary Revolution_. New York, NY: Random House, Inc., 2008. ISBN: 9780385519014. ({{% resource_link "3149fbd6-9bf4-4683-872c-bf7a975159fc" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -542,7 +542,7 @@ Reed, Bill. "The Integrative Design Process: Changing Our Mental Model." Arlingt
 
 ———. "A Living Systems Approach to Design." Theme Keynote Address for the AIA National Convention, San Antonio, TX, May 2007.
 
-Playa Viva. "Playa Viva Community." Watch all seven videos by [Playa Viva](http://www.youtube.com/user/PlayaViva).
+Playa Viva. "Playa Viva Community." Watch all seven videos by {{% resource_link "e229e788-16c9-4887-8dab-5b7146a1799e" "Playa Viva" %}}.
 
 
 {{< tdclose >}}
