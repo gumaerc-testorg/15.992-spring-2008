@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on sustainable infrastructure and international
   markets.
-file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7e4fc829b23a0175a6251ff69d59d1b3_lec_16.pdf
+file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7e4fc829b23a0175a6251ff69d59d1b3_lec_16.pdf
 file_size: 342358
 file_type: application/pdf
 learning_resource_types:
