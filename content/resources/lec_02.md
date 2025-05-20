@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on ecological and economic sustainability, globalization,
   growth, and the state of the world.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/b2d25ff6ab612b3fca4ee290585daa0d_lec_02.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/b2d25ff6ab612b3fca4ee290585daa0d_lec_02.pdf
 file_size: 824761
 file_type: application/pdf
 learning_resource_types:

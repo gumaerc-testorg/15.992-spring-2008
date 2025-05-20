@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on sustainability of buildings, and new markets
   and services.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/e992f2657cf4a31cc6b60be92aaf97eb_lec_15.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/e992f2657cf4a31cc6b60be92aaf97eb_lec_15.pdf
 file_size: 175984
 file_type: application/pdf
 learning_resource_types:

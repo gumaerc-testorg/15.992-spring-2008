@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on organizational response, overload, change, and
   sustainability.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/a6e04f84c8b90a1df4a05cf7e014cd7b_lec_03.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/a6e04f84c8b90a1df4a05cf7e014cd7b_lec_03.pdf
 file_size: 918045
 file_type: application/pdf
 learning_resource_types:
