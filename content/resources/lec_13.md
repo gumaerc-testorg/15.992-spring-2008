@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on a case example of alternative transportation
   opportunities, courtesy of Dr. Roger Saillent.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/d1e377e0770cb2880d1038cd0c3665e0_lec_13.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/d1e377e0770cb2880d1038cd0c3665e0_lec_13.pdf
 file_size: 789193
 file_type: application/pdf
 learning_resource_types:

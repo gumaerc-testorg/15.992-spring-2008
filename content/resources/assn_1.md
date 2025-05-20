@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment and readings for Class 2: The State of the World.'
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/6919c66597157e01f497402f61d06cd5_assn_1.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/6919c66597157e01f497402f61d06cd5_assn_1.pdf
 file_size: 140483
 file_type: application/pdf
 learning_resource_types:
