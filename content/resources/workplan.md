@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on preparing a workplan for the S-Lab project.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/5858b8f508b9604d3b7229b605efb4b8_workplan.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/5858b8f508b9604d3b7229b605efb4b8_workplan.pdf
 file_size: 27427
 file_type: application/pdf
 learning_resource_types:

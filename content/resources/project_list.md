@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of potential host organizations and projects for S-Lab.
-file: /ol-ocw-studio-app/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/0efbfc1c95704f61fbb62fd4ce6ad710_project_list.pdf
+file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/0efbfc1c95704f61fbb62fd4ce6ad710_project_list.pdf
 file_size: 66199
 file_type: application/pdf
 learning_resource_types:
